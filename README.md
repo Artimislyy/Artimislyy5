@@ -27,3 +27,6 @@ getPos:function(){
     getLocation需要在app.json中声明permission字段？
     
 ```
+操作反馈
+```
+
